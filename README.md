@@ -15,11 +15,6 @@ Simple Color Picker extension for google chrome using eyeDropper API
 <!-- GETTING STARTED -->
 ## Getting Started
 To run the project on chrome, follow these steps:
-### Prerequisites
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 1. Clone the repo
