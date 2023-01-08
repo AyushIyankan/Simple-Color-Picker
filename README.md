@@ -17,7 +17,7 @@ Simple Color Picker extension for google chrome using eyeDropper API
 To run the project on chrome, follow these steps:
 
 ### Installation
-1. Clone the repo
+1. Clone the repo and extract archive
    ```js
    git clone https://github.com/AyushIyankan/Simple-Color-Picker.git
    ```
@@ -27,7 +27,8 @@ To run the project on chrome, follow these steps:
    ```
 3. Enable developer mode
 4. Click Load unpacked
-4. And that's it :) You are good to go.
+5. Select previosly extracted project folder
+6. And that's it :) You are good to go.
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
