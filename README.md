@@ -17,7 +17,7 @@ Simple Color Picker extension for google chrome using eyeDropper API
 To run the project on chrome, follow these steps:
 
 ### Installation
-1. Clone the repo and extract archive
+1. Clone the repo or extract archive
    ```js
    git clone https://github.com/AyushIyankan/Simple-Color-Picker.git
    ```
